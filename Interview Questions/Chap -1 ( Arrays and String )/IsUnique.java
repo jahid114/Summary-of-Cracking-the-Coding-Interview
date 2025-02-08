@@ -2,6 +2,8 @@
 
 // Assuming that the string is an ASCII string 
 
+// If its a unicode string then we would have to use hashMap
+
 class Main {
   public static void main(String[] args) {
       System.out.println(isUnique("Helo"));
